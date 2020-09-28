@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "7fe92ec8c964c45c66550f3e0b5ecbcf--our-president-vladimir-putin.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
